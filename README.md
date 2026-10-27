@@ -1,5 +1,7 @@
 # DittoCache
 
+This is the open-source repository of **DittoCache**, our SIGOPS ATC '26 paper.
+
 ## Install
 
 ### Dependencies
